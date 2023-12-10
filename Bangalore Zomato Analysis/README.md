@@ -30,4 +30,4 @@ A very big thanks to the Kaggle for this awesome Zomato dataset which helps me d
 
 Thank you! 
 
-[Click Here for the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAxYTFjYmItOTFkYS00ZThkLWE1ZjctYTYxMmRjOGYzNjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+[Click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAxYTFjYmItOTFkYS00ZThkLWE1ZjctYTYxMmRjOGYzNjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
