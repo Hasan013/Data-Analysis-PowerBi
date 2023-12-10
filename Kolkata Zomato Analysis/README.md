@@ -35,3 +35,4 @@ A very big thanks to the Kaggle for this awesome dataset which helps me doing th
 
 Thank you!
 
+[Click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjk3MDJhY2ItMjZiZi00Mjk2LWE0ODMtZmYyNTA1ZDYyMGRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
