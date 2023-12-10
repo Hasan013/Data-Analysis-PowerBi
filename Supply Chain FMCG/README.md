@@ -1,4 +1,4 @@
-# Generating Insights for Supply Chain Issue in FMCG domain!
+# Generating Insights for Supply Chain in FMCG domain!
 
 Exciting Update! Just completed a significant Data Analysis project on generating Insights to solve a Supply Chain Issue in the FMCG domain! 
 
