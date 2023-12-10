@@ -1,4 +1,6 @@
 # Kolkata Zomato Analysis
+#### Interactive Dashboard Link
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiNjk3MDJhY2ItMjZiZi00Mjk2LWE0ODMtZmYyNTA1ZDYyMGRjIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 ## Exciting Zomato Data Analysis Project!
 I am very excited to share the results of my recent data analysis project using the Kolkata Zomato dataset. I explored the food scene in Kolkata and made a cool dashboard in PowerBI to tell the story of dining in the city. Check out some of the cool features and things I have founded. 
