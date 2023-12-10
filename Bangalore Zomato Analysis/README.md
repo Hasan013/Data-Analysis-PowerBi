@@ -31,3 +31,6 @@ A very big thanks to the Kaggle for this awesome Zomato dataset which helps me d
 Thank you! 
 
 [Click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiODAxYTFjYmItOTFkYS00ZThkLWE1ZjctYTYxMmRjOGYzNjdlIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
+
+If you want to Download the dataset <br>
+[Click here](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/download?datasetVersionNumber=1)
