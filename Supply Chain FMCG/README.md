@@ -1,4 +1,6 @@
 # Generating Insights for Supply Chain in FMCG domain!
+#### Interactive Dashboard Link
+[Click Here](https://app.powerbi.com/view?r=eyJrIjoiYmJkZWNiZjEtNWM0MC00ZGM0LThjNmYtYTcyMjMwZDFjMjA0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
 
 Exciting Update! Just completed a significant Data Analysis project on generating Insights to solve a Supply Chain Issue in the FMCG domain! 
 
