@@ -4,16 +4,16 @@
 I am very excited to share the results of my recent data analysis project using the Kolkata Zomato dataset. I explored the food scene in Kolkata and made a cool dashboard in PowerBI to tell the story of dining in the city. Check out some of the cool features and things I have founded. 
 
 ## Dashboard Features:
-•	Dinner Ratings: See how people rate dinners in the city.
-•	Delivery Ratings: Check out how restaurants are doing in the delivery department.
-•	Indoor Seating: Find places to sit inside for a meal.
-•	Veg Only: Quickly find spots with only vegetarian options.
-•	Home Delivery: Discover restaurants that deliver to your door.
+•	Dinner Ratings: See how people rate dinners in the city. <br>
+•	Delivery Ratings: Check out how restaurants are doing in the delivery department.<br>
+•	Indoor Seating: Find places to sit inside for a meal.<br>
+•	Veg Only: Quickly find spots with only vegetarian options.<br>
+•	Home Delivery: Discover restaurants that deliver to your door.<br>
 •	Locations & Cuisines Filters: Easily explore the food map of Kolkata. 
 
 ## Key Insights:
-•	KPIs (Average Bill Amount): See how much people usually spend on meals in the city.
-•	Top Cuisines: Find out which cuisines are the most popular in Kolkata.
+•	KPIs (Average Bill Amount): See how much people usually spend on meals in the city.<br>
+•	Top Cuisines: Find out which cuisines are the most popular in Kolkata.<br>
 •	Top Restaurants: Discover the best rated restaurants in the city. 
 
 ## Why It Matters: 
