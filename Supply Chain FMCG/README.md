@@ -29,3 +29,4 @@ I invite you to explore the dashboard. Your valuable feedback is crucial for my 
 
 Thank you! 
 
+#### [Click here to interact with the Dashboard](https://app.powerbi.com/view?r=eyJrIjoiYmJkZWNiZjEtNWM0MC00ZGM0LThjNmYtYTcyMjMwZDFjMjA0IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
