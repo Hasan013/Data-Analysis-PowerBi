@@ -1,3 +1,4 @@
+![Bangalore Zomato Analysis](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Bangalore%20Zomato%20Analysis/Bangalore%20zomato%20analysis.PNG)
 # Bangalore Zomato Analysis
 #### Interactive Dashboard Link
 [Click Here](https://www.novypro.com/project/bangalore-zomato-analysis)
@@ -27,8 +28,6 @@ I invite you to explore the dashboard. Your valuable feedback is very crucial fo
 
 ## Big Thanks: 
 A very big thanks to the Kaggle for this awesome Zomato dataset which helps me doing this tasty project. Super excited to keep exploring the world of data and food adventures.
-
-![GitHub Logo](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Bangalore%20Zomato%20Analysis/Bangalore%20zomato%20analysis.PNG)
 
 
 Thank you! 
