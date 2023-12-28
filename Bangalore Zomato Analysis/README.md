@@ -28,6 +28,9 @@ I invite you to explore the dashboard. Your valuable feedback is very crucial fo
 ## Big Thanks: 
 A very big thanks to the Kaggle for this awesome Zomato dataset which helps me doing this tasty project. Super excited to keep exploring the world of data and food adventures.
 
+![GitHub Logo](https://github.com/yourusername/yourrepository/raw/main/path/to/your/image.png)
+
+
 Thank you! 
 
 #### [Click here to interact with the Dashboard](https://www.novypro.com/project/bangalore-zomato-analysis)
