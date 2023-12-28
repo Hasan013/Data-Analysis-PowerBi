@@ -1,3 +1,4 @@
+![Bangalore Zomato Analysis](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Supply%20Chain%20FMCG/Dashboard/Supply%20Chain%20Dashboard.PNG)
 # Generating Insights for Supply Chain in FMCG domain!
 #### Interactive Dashboard Link
 [Click Here](https://www.novypro.com/project/insights-for-supply-chain-in-fmcg-domain)
