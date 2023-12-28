@@ -1,3 +1,4 @@
+![Bangalore Zomato Analysis](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Kolkata%20Zomato%20Analysis/Dashboard/Kolkata%20zomato%20analysis.PNG)
 # Kolkata Zomato Analysis
 #### Interactive Dashboard Link
 [Click Here](https://www.novypro.com/project/kolkata-zomato-analysis)
