@@ -1,39 +1,68 @@
-![Bangalore Zomato Analysis](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Kolkata%20Zomato%20Analysis/Dashboard/Kolkata%20zomato%20analysis.PNG)
-# Kolkata Zomato Analysis
-#### Interactive Dashboard Link
-[Click Here](https://www.novypro.com/project/kolkata-zomato-analysis)
+# 🍛 Kolkata Zomato Analysis – Dining & Delivery Trends Uncovered
 
-## Exciting Zomato Data Analysis Project!
-I am very excited to share the results of my recent data analysis project using the Kolkata Zomato dataset. I explored the food scene in Kolkata and made a cool dashboard in PowerBI to tell the story of dining in the city. Check out some of the cool features and things I have founded. 
+> Built for food-tech founders, growth marketers and F&B product teams who want to understand customer behavior in metro cities like Kolkata.
 
-## Dashboard Features:
-•	Dinner Ratings: See how people rate dinners in the city. <br>
-•	Delivery Ratings: Check out how restaurants are doing in the delivery department.<br>
-•	Indoor Seating: Find places to sit inside for a meal.<br>
-•	Veg Only: Quickly find spots with only vegetarian options.<br>
-•	Home Delivery: Discover restaurants that deliver to your door.<br>
-•	Locations & Cuisines Filters: Easily explore the food map of Kolkata. 
+![Kolkata Zomato](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Kolkata%20Zomato%20Analysis/Dashboard/Kolkata%20zomato%20analysis.PNG)
 
-## Key Insights:
-•	KPIs (Average Bill Amount): See how much people usually spend on meals in the city.<br>
-•	Top Cuisines: Find out which cuisines are the most popular in Kolkata.<br>
-•	Top Restaurants: Discover the best rated restaurants in the city. 
+🔗 [View Interactive Dashboard](https://www.novypro.com/project/kolkata-zomato-analysis)
 
-## Why It Matters: 
-This project is more than just numbers. It's like taking a tasty tour of Kolkata's different foods. From comfort indoor places to getting yummy food delivered at home, the dashboard shows what dining is like in the city.
+---
 
-## Learnings: 
-Dived into Kolkata's Zomato data, polishing my skills in cleaning data, using Power BI and understanding KPIs. Discovered cool insights about dining habits and learned to turn complex data into interesting stories.
+## 🎯 Project Overview
 
-## Tool Used:
-PowerBi (Data Analysis, Dashboard & Visualsation)
+This project uses Zomato data from Kolkata to understand:
 
-## Explore the Dashboard: 
-I invite you to take a look on to the dashboard, discovering the flavors that make Kolkata's food scene truly unique. 
+- What kind of restaurants customers love?
+- Which cuisines perform best?
+- Where people are spending and ordering the most?
+- How indoor seating, delivery and vegetarian options influence choices?
 
-## Big Thanks: 
-A very big thanks to the Kaggle for this awesome dataset which helps me doing this project. Super excited to keep exploring the world of data and food adventures.
+The dashboard helps F&B businesses and food-tech teams make smarter, local decisions based on customer behavior.
 
-Thank you!
+---
 
-#### [Click here to interact with the Dashboard](https://www.novypro.com/project/kolkata-zomato-analysis)
+## 📊 Dashboard Features
+
+- ⭐ **Dining & Delivery Ratings** - see what customers prefer  
+- 🛵 **Home Delivery Filters** - spot top-performing delivery restaurants  
+- 🪑 **Indoor Seating & Veg-Only Filters** - find customer segments  
+- 📍 **Cuisine & Location Filters** - explore city-level patterns  
+- 💰 **Average Bill KPIs** - know where and how much people spend  
+- 🏆 **Top Restaurants & Cuisines** - based on real ratings & votes
+
+🔗 [Explore the Dashboard Live](https://www.novypro.com/project/kolkata-zomato-analysis)
+
+---
+
+## 🔍 Key Insights
+
+- North Indian, Mughlai and Chinese are the most loved cuisines  
+- Customers spend more in areas with premium indoor restaurants  
+- Delivery-focused restaurants get more engagement in popular localities  
+- Veg-only restaurants show strong niche demand in specific zones
+
+---
+
+## 🚀 Why It Matters
+
+This dashboard gives decision-makers:
+
+- Clear direction on where to **invest in promotions or expansion**  
+- Insights to **tailor offerings** based on location & preference  
+- Data to **optimize menus, pricing and delivery** strategies  
+- A quick way to **track restaurant performance** by area
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – dashboard creation, filters, KPIs  
+- **Dataset Source:** Downloaded from [Kaggle](https://www.kaggle.com/)
+
+---
+
+Let’s talk if you are working on growth, delivery optimization or product strategy in the food or F&B space!
+
+📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)  
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/) 
