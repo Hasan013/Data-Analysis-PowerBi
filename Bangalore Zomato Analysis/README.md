@@ -1,39 +1,68 @@
-![Bangalore Zomato Analysis](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Bangalore%20Zomato%20Analysis/Bangalore%20zomato%20analysis.PNG)
-# Bangalore Zomato Analysis
-#### Interactive Dashboard Link
-[Click Here](https://www.novypro.com/project/bangalore-zomato-analysis)
+# 🍽️ Bangalore Zomato Analysis – Customer Insights from Food Delivery Data
 
-## Exciting News!
-Hey everyone! I just wrapped up a cool data analysis project and this time it's all about the food scene in Bangalore using Zomato data! 
+> Built for food-tech founders, F&B marketers and growth leaders looking to use customer data for smarter decisions.
 
-## Check out the Features: 
-### Filters Magic: 
-You can play with filters to see different types of restaurants (like buffets, cafes, delivery, etc.), you can check for online orders or table bookings, explore different locations and dive into various cuisines.
-### Numbers That Matter: 
-I crunched some numbers to give you the average rating, total votes and average bill amount. Basically, what makes a restaurant stand out.
-### Discover the Best: 
-Find out the top cuisines and the coolest restaurants that everyone is talking about in Bangalore.
+![Bangalore Zomato](https://github.com/Hasan013/Data-Analysis-PowerBi/blob/main/Bangalore%20Zomato%20Analysis/Bangalore%20zomato%20analysis.PNG)
 
-## Why It's Cool: 
-This project is like your foodie guide to Bangalore. Want to know where people love ordering online or which cuisine rocks the city? This dashboard is very helpful for that.
+🔗 [Interactive Dashboard – Explore Now](https://www.novypro.com/project/bangalore-zomato-analysis)
 
-## Learnings: 
-I got to learn the ins and outs of Power BI, created some slicers and turned the raw data into easy to read charts. It was like turning food data into a visual feast.
+---
 
-## Tool Used:
-PowerBi (Data Analysis, Dashboard & Visualsation)
+## 🎯 Project Overview
 
-## Feedback Needed:
-I invite you to explore the dashboard. Your valuable feedback is very crucial for my skill enhancement.
+This project analyzes Zomato food delivery data in Bangalore to uncover customer preferences, restaurant performance and cuisine trends which helps local F&B brands and platforms make better, data-driven decisions.
 
-## Big Thanks: 
-A very big thanks to the Kaggle for this awesome Zomato dataset which helps me doing this tasty project. Super excited to keep exploring the world of data and food adventures.
+---
 
+## 🔍 Business Questions Explored
 
+- What types of restaurants are most popular in Bangalore?
+- Which cuisines are most loved by customers?
+- Where are people spending the most on food?
+- What drives better restaurant ratings - delivery, dine-in or price?
 
-Thank you! 
+---
 
-#### [Click here to interact with the Dashboard](https://www.novypro.com/project/bangalore-zomato-analysis)
+## 📊 Dashboard Features
 
+- ✅ **Smart Filters** - by cuisine, restaurant type, location, online orders, table booking  
+- ⭐ **Key Metrics** - average rating, total votes, average cost  
+- 🏆 **Top Performers** - highest-rated restaurants & cuisines  
+- 📍 **Location Breakdown** - discover local food preferences
 
-##### If you want to Download the dataset [Click here](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/download?datasetVersionNumber=1)
+🎯 [Try the Live Dashboard](https://www.novypro.com/project/bangalore-zomato-analysis)
+
+---
+
+## 🧠 Key Insights
+
+- **Delivery-friendly restaurants** dominate in most areas  
+- **Buffets & cafés** are highly rated, but less ordered  
+- **Online ordering** is the top customer preference  
+- **Certain cuisines** outperform others by locality
+
+---
+
+## 🚀 Why It Matters
+
+For food delivery brands, restaurant owners and DTC food startups, this dashboard can help:
+
+- Optimize restaurant partnerships and pricing  
+- Localize marketing by cuisine or area  
+- Improve customer retention with better menu planning  
+- Understand what drives 5-star customer experiences
+
+---
+
+## 🛠️ Tools Used
+
+- **Power BI** – for data modeling, filters and interactive visualizations  
+- **Dataset Source:** [Download it from Kaggle](https://www.kaggle.com/datasets/absin7/zomato-bangalore-dataset/download?datasetVersionNumber=1)
+
+---
+
+If you are building a product in food-tech, QSR or consumer data, I would love to chat!
+
+📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
+🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)  
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)
