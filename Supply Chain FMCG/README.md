@@ -67,5 +67,6 @@ This project helped me grow as a data analyst in the **supply chain** and **oper
 
 📩 **Email:** [hraza9327@gmail.com](mailto:hraza9327@gmail.com)  
 🔗 **LinkedIn:** [https://www.linkedin.com/in/hasan-raja-khan](https://www.linkedin.com/in/hasan-raja-khan)
+🌐 **Portfolio:** [https://hasan013.github.io/](https://hasan013.github.io/)
 
 🔗 **Dashboard:** [Click to Explore](https://www.novypro.com/project/insights-for-supply-chain-in-fmcg-domain)
